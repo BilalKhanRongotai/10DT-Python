@@ -1,5 +1,5 @@
 # M Bilal Khan
-#Practice task
+#Practice task - variables, print, datatype.
 
 #Variable declaration
 name = "Bilal"
